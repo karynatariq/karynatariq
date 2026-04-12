@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6c3ce0,100:c9a227&height=220&section=header&text=Karyna%20Tariq&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%9C%A6%20Backend%20%26%20Cloud%20Architecture&descSize=16&descAlignY=55&descColor=d4af37&animation=fadeIn" width="100%" />
+# Hey there, I'm Karyna Tariq 👋
+
+### Senior Software Engineer ✦ Backend & Cloud Architecture
+
+<br/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -20,9 +23,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karynatariq&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=a9b1d6&ring_color=6c3ce0" width="250" />
-
-## `> whoami` &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 🧑‍💻 About Me
 
 ```yaml
 name: Karyna Tariq
@@ -36,11 +37,9 @@ fun_fact: I optimize APIs before my morning coffee
 
 Software Engineer with **4+ years** of proven track record building innovative backend solutions and leading teams in agile environments. Skilled in **JavaScript** and **Node.js**, with a strong focus on delivering scalable, high-performance applications. Currently architecting multi-tenant platforms handling **10K+ daily orders** at **Skupreme**.
 
-<br clear="right"/>
-
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> &nbsp; Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -78,15 +77,11 @@ Software Engineer with **4+ years** of proven track record building innovative b
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp; GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karynatariq&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=6c3ce0&text_color=a9b1d6&ring_color=c9a227" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karynatariq&theme=midnight-purple&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&sideLabels=6c3ce0&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=555555" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karynatariq&bg_color=0d1117&color=a9b1d6&line=6c3ce0&point=c9a227&area=true&area_color=6c3ce0&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -122,5 +117,3 @@ Software Engineer with **4+ years** of proven track record building innovative b
 **If you like my work, consider giving a ⭐ to my repositories!**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6c3ce0,100:c9a227&height=120&section=footer" width="100%" />
