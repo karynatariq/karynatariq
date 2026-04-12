@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6c3ce0,100:c9a227&height=220&section=header&text=Karyna%20Tariq&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Architecture&descSize=16&descAlignY=55&descColor=d4af37&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6c3ce0,100:c9a227&height=220&section=header&text=Karyna%20Tariq&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%9C%A6%20Backend%20%26%20Cloud%20Architecture&descSize=16&descAlignY=55&descColor=d4af37&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -49,7 +49,6 @@ Software Engineer with **4+ years** of proven track record building innovative b
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -65,7 +64,6 @@ Software Engineer with **4+ years** of proven track record building innovative b
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
