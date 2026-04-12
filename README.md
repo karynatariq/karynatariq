@@ -101,7 +101,7 @@ Software Engineer with **4+ years** of proven track record building innovative b
 | 🏗️ | Built **multi-tenant architecture** reducing integration time by **25%** |
 | 📦 | Automated order processing handling **10K+ daily orders** |
 | ⚡ | Cut deployment times by **50%** with scalable microservices & CI/CD |
-| 💳 | Payment gateway integration driving **30% increase** in transaction success rates |
+| 🔗 | 3rd party marketplace integrations enabling seamless **order sync & catalog management** across e-commerce platforms |
 | 🎯 | **30% increase** in client satisfaction through proactive collaboration |
 | 📜 | Google Data Analytics & MongoDB Aggregation Framework Certified |
 
