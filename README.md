@@ -28,7 +28,7 @@
 name: Karyna Tariq
 role: Senior Software Engineer @ Skupreme
 experience: 4+ years
-location: Kiev, Ukraine 🇺🇦
+location: Kyiv, Ukraine 🇺🇦 | Born in Italy 🇮🇹
 focus: Backend Engineering & Cloud Architecture
 open_to_work: true
 fun_fact: I optimize APIs before my morning coffee
