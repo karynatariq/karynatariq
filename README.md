@@ -16,7 +16,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karyna-tariq/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6c3ce0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karynatariq.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:karynatarq@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:karynatariq@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karynatariq)
 
 </div>
