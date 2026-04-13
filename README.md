@@ -49,6 +49,7 @@ Software Engineer with **4+ years** of proven track record building innovative b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### Databases
