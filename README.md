@@ -28,7 +28,7 @@
 ```yaml
 name: Karyna Tariq
 role: Senior Software Engineer @ Skupreme
-experience: 4+ years
+experience: 5+ years
 location: Italy 🇮🇹 (born in Kiev, Ukraine 🇺🇦)
 focus: Backend Engineering & Cloud Architecture
 open_to_work: true
