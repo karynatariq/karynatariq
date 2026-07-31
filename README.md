@@ -35,7 +35,7 @@ open_to_work: true
 fun_fact: I optimize APIs before my morning coffee
 ```
 
-Software Engineer with **4+ years** of proven track record building innovative backend solutions and leading teams in agile environments. Skilled in **JavaScript** and **Node.js**, with a strong focus on delivering scalable, high-performance applications. Currently architecting multi-tenant platforms handling **10K+ daily orders** at **Skupreme**.
+Software Engineer with **5+ years** of proven track record building innovative backend solutions and leading teams in agile environments. Skilled in **JavaScript** and **Node.js**, with a strong focus on delivering scalable, high-performance applications. Currently architecting multi-tenant platforms handling **10K+ daily orders** at **Skupreme**.
 
 ---
 
