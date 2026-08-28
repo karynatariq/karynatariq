@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Karyna Tariq 👋
+# Hey there, I'm Karyna Siddik 👋
 
 ### Senior Software Engineer ✦ Backend & Cloud Architecture
 
