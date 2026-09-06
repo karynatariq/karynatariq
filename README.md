@@ -26,7 +26,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Karyna Tariq
+name: Karyna Siddik
 role: Senior Software Engineer @ Skupreme
 experience: 5+ years
 location: Italy 🇮🇹 (born in Kiev, Ukraine 🇺🇦)
