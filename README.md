@@ -2,7 +2,7 @@
 
 # Hey there, I'm Karyna Siddik 👋
 
-### Senior Software Engineer ✦ Backend & Cloud Architecture
+### Senior Software Engineer
 
 <br/>
 
