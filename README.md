@@ -8,14 +8,14 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9A227&center=true&vCenter=true&random=false&width=650&lines=Senior+Software+Engineer+%7C+4%2B+Years;Node.js+%7C+Express+%7C+Python+%7C+AWS;Microservices+%7C+Serverless+%7C+Multi-Tenant;Building+Scalable+Backend+Systems+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C9A227&center=true&vCenter=true&random=false&width=650&lines=Senior+Software+Engineer+%7C+6%2B+Years;Node.js+%7C+Express+%7C+Python+%7C+AWS;Microservices+%7C+Serverless+%7C+Multi-Tenant;Building+Scalable+Backend+Systems+at+Scale" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karyna-tariq/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c3ce0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karynatariq.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6c3ce0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karynasiddik.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:karynatariq@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karynatariq)
 
@@ -27,15 +27,37 @@
 
 ```yaml
 name: Karyna Siddik
-role: Senior Software Engineer @ Skupreme
-experience: 5+ years
+role: Senior Software Engineer @ Retail Link
+previously: [NTT DATA, Skupreme]
+experience: 6+ years
 location: Italy 🇮🇹 (born in Kiev, Ukraine 🇺🇦)
 focus: Backend Engineering & Cloud Architecture
+portfolio: https://karynasiddik.vercel.app/
 open_to_work: true
 fun_fact: I optimize APIs before my morning coffee
 ```
 
-Software Engineer with **5+ years** of proven track record building innovative backend solutions and leading teams in agile environments. Skilled in **JavaScript** and **Node.js**, with a strong focus on delivering scalable, high-performance applications. Currently architecting multi-tenant platforms handling **10K+ daily orders** at **Skupreme**.
+Senior Software Engineer with **6+ years** of proven track record building innovative backend solutions and leading teams in agile environments. Skilled in **JavaScript** and **Node.js**, with a strong focus on delivering scalable, high-performance applications. Currently a Senior Software Engineer at **Retail Link**; previously at **NTT DATA** and **Skupreme**, where I architected multi-tenant platforms handling **10K+ daily orders**.
+
+<div align="center">
+
+| 6+ years shipping | 4 roles | 10K+ daily orders | 40% faster APIs |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|:---|:---|:---|
+| Aug 2026 – Present | Senior Software Engineer | **Retail Link** |
+| Jan 2024 – Jan 2026 | Senior Software Engineer | **NTT DATA** |
+| Jul 2021 – Jun 2026 | Senior Software Engineer *(part-time Jan 2024 – Jan 2026)* | **Skupreme** · Miami, US (Remote) |
+| Jun 2020 – Jun 2021 | Backend Engineer (Freelance) | **Fiverr** · Remote |
+
+👉 Full details, projects and case studies on my **[portfolio](https://karynasiddik.vercel.app/)**.
 
 ---
 
@@ -116,5 +138,7 @@ Software Engineer with **5+ years** of proven track record building innovative b
 <br/><br/>
 
 **If you like my work, consider giving a ⭐ to my repositories!**
+
+[🌐 karynasiddik.vercel.app](https://karynasiddik.vercel.app/)
 
 </div>
