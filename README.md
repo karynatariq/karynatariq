@@ -32,7 +32,7 @@ previously: [NTT DATA, Skupreme]
 experience: 6+ years
 location: Italy 🇮🇹 (born in Kiev, Ukraine 🇺🇦)
 focus: Backend Engineering & Cloud Architecture
-portfolio: https://karynasiddik.vercel.app/
+portfolio: https://karyna.dev/
 open_to_work: true
 fun_fact: I optimize APIs before my morning coffee
 ```
@@ -57,7 +57,7 @@ Senior Software Engineer with **6+ years** of proven track record building innov
 | Jul 2021 – Jun 2026 | Senior Software Engineer *(part-time Jan 2024 – Jan 2026)* | **Skupreme** · Miami, US (Remote) |
 | Jun 2020 – Jun 2021 | Backend Engineer (Freelance) | **Fiverr** · Remote |
 
-👉 Full details, projects and case studies on my **[portfolio](https://karynasiddik.vercel.app/)**.
+👉 Full details, projects and case studies on my **[portfolio](https://karyna.dev/)**.
 
 ---
 
@@ -139,6 +139,6 @@ Senior Software Engineer with **6+ years** of proven track record building innov
 
 **If you like my work, consider giving a ⭐ to my repositories!**
 
-[🌐 karynasiddik.vercel.app](https://karynasiddik.vercel.app/)
+[🌐 kkaryna.dev](https://karyna.dev/)
 
 </div>
